@@ -1,5 +1,8 @@
 # AppDev-React-AWS-Amplify-GraphQL-Demo
 
+We will begin by deploying a simple React application using AWS Amplify. Next, we will create an S3 bucket to store our files and data. Finally, we will use GraphQL to fetch, create, and delete notes from our application.
+
+
 ## Installation
 Install the npm package manager [here](https://nodejs.org/en/)
 
